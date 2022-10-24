@@ -1,0 +1,20 @@
+body {
+    background-color: #E9ECEF;
+}
+.text-align {
+    text-align:center
+}
+.bg {
+    background-color: rgb(163, 218, 163);
+}
+h1 {
+    font-family: fantasy;
+}
+.img {
+    width: 200;
+    height: 200;
+}
+nav {
+    background-color: rgb(196, 219, 233);
+    color: blueviolet;
+}
